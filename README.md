@@ -142,4 +142,6 @@ print(answer)
 - **ChromaDB** for developer-friendly, persistent vector storage
 
 
+---
 ## Thank You
+---
